@@ -1,0 +1,24 @@
+nav{
+    display: flex;
+    align-items: center;
+
+    justify-content: space-between;
+
+    position: fixed;
+    background: #235390;
+    
+    height: 70px;
+    width: 100%;
+
+    z-index: 1000;
+}
+
+@media screen and (max-width: 1000px) {
+    .languageBttn {
+      display: none;
+    }
+
+    nav h1 {
+        margin: 5%;
+    }
+}
