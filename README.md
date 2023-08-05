@@ -4,7 +4,9 @@
 
 El proyecto trata sobre replicar una página web, en este caso se está replicando la página para aprender idiomas "Duolingo".
 
-**Link a la página original:** https://es.duolingo.com/
+[Link a la página original](https://es.duolingo.com/)
+
+[Link a la página repricada](https://proyecto1-web-60dcf.web.app/)
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -64,6 +66,6 @@ Contiene las distintas fuentes que se utilizan a lo largo del proyecto.
 - Navbar.js
 
 ## Autor
-Diana Lucía Fernández Villatoro
+Diana Lucía Fernández Villatoro - 21747
 
-21747
+fer21747@uvg.edu.gt
